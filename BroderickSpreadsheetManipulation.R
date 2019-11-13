@@ -1,5 +1,5 @@
 #set working directory 
-setwd("~/Computer Science/DataMade")
+setwd("~/GitHub/DataMadeApp")
 
 #read CSV file
 legislators <- read.csv(file = "legislators.csv")
